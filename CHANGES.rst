@@ -1,8 +1,8 @@
 Changelog
 =========
 
-3.6 (unreleased)
-----------------
+3.6-eca (2014-08-08)
+--------------------
 
 - Nothing changed yet.
 
