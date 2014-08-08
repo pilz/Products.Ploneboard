@@ -1,8 +1,8 @@
 Changelog
 =========
 
-3.6 (unreleased)
-----------------
+3.6-eca (2014-08-08)
+--------------------
 
 - Fix unresolved or circular dependency when installing Ploneboard (or
   when applying any GenericSetup profile).  The import step to apply
